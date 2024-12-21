@@ -5,7 +5,9 @@
 }
 body{
   background-color: #8098ff65;
-  font-size: 16px;     background-image:url('pattern-background-mobile.svg'); 
+  font-size: 16px; 
+  font-family:Arial,sans-serif,"Open sans","Helvetica Neue";
+  background-image:url('pattern-background-mobile.svg'); 
     background-repeat: no-repeat;
     background-size: cover;
     @media(min-width:768px){
