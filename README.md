@@ -1,10 +1,8 @@
-
-
-Frontend Mentor – Day 03: Order Summary Component
+###Frontend Mentor – Day 03: Order Summary Component
 
 This is a solution to the Order Summary Component challenge on Frontend Mentor.
 
-The Challenge
+###The Challenge
 
 Users should be able to:
 
@@ -15,21 +13,21 @@ Users should be able to:
 • View the responsive website (width: 370px to 1440px).
 
 
-Link
+###Link
 
 • Solution: https://github.com/umera27/Day-03-Order-Summary-Components
 
 • Live Demo: https://umera27.github.io/Day-03-Order-Summary-Components/
 
 
-My Process
+###My Process
 
 • HTML: Used to create a semantic structure.
 
 • CSS: Used flexible layouts for responsiveness.
 
 
-Built With
+###Built With
 
 • Semantic HTML5 markup
 
@@ -38,7 +36,7 @@ Built With
 • Mobile-first workflow
 
 
-Technologies Used
+###Technologies Used
 
 • HTML
 
